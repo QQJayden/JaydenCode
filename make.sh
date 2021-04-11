@@ -1,0 +1,1 @@
+g++ *.cpp src_interview_guide/*.cpp -o xxx.exe > compile.log
