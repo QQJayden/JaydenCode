@@ -1,6 +1,8 @@
 #include <iostream>
 #include "all_algorithm.h"
 
+using namespace std;
+
 int main()
 {
     

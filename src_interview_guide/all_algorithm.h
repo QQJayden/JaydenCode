@@ -1,6 +1,9 @@
 /*一个类代表一个问题*/
-#include<vector>
 #include<stdio.h>
+#include<vector>
+
+using namespace std;
+
 
 
 /*栈和队列*/
